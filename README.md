@@ -1,4 +1,4 @@
-#https://denisshashkov.github.io/expensesApp-react/
+# https://denisshashkov.github.io/expensesApp-react/
 
 # Getting Started with Create React App
 
